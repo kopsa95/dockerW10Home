@@ -8,5 +8,5 @@ steps:
   the following:
   EditionID/ Core ----> Professional
   Product name/ from Windows 10 Home ----> Windows 10 Pro
-3)Then run .exe installation file you download it.
+3)Then run the .exe installation file you download
 4)Change the registry entries to the previous one
