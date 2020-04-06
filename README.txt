@@ -3,7 +3,7 @@ docker Desktop in Windows Home edition
 
 
 steps:
-1) run the bat scripts as an Admin
+1) run the bat scripts as an Admin (Restart will be needed)
 2)go to your registry and change in the following path HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
   the following:
   EditionID/ Core ----> Professional
